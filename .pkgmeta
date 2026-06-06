@@ -13,3 +13,4 @@ ignore:
   - CHANGELOG.md
   - logo.svg
   - logo.png
+  - docs
