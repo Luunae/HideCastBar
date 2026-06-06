@@ -1,0 +1,15 @@
+package-as: HideCastBar
+
+enable-nolib-creation: no
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - .gitignore
+  - .pkgmeta
+  - .claude
+  - CHANGELOG.md
+  - logo.svg
+  - logo.png

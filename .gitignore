@@ -1,0 +1,5 @@
+*.zip
+*.bak
+*.swp
+.DS_Store
+.claude/

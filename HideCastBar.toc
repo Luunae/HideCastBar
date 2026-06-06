@@ -1,0 +1,8 @@
+## Interface: 50504
+## Title: Hide CastBar
+## Notes: Hides the default player casting bar. Toggle with /hcb.
+## Author: Luna
+## Version: @project-version@
+## SavedVariables: HideCastBarDB
+
+HideCastBar.lua
